@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Winform image upload\Upload\Upload\bin\Debug\Upload.exe
+C:\Users\ASUS\Desktop\Winform image upload\Upload\Upload\bin\Debug\Upload.pdb
+C:\Users\ASUS\Desktop\Winform image upload\Upload\Upload\obj\Debug\Upload.Form1.resources
+C:\Users\ASUS\Desktop\Winform image upload\Upload\Upload\obj\Debug\Upload.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Winform image upload\Upload\Upload\obj\Debug\Upload.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Winform image upload\Upload\Upload\obj\Debug\Upload.exe
+C:\Users\ASUS\Desktop\Winform image upload\Upload\Upload\obj\Debug\Upload.pdb
